@@ -1,5 +1,5 @@
 {
-  "emailExists": true,
+  "emailExists": false,
   "needsEmailConfirmation": true,
   "acceptedTermsAndConditions": true
 }
